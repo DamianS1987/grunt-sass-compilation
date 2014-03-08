@@ -1,0 +1,12 @@
+@import "compass/reset";
+@import "modules/header";
+
+body {
+	background: red;
+
+	p, h2 {
+		text-align: center;
+		font-size: 1.4em;
+		color: black ;
+	}
+}
